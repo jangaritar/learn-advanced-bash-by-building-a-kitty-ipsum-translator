@@ -38,3 +38,4 @@ echo hello bash > stdout.txt
 bad_comand
 bad_comMand
 bad_command
+bad_command > stderr.txt

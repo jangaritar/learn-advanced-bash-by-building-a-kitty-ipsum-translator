@@ -66,3 +66,8 @@ chmod +x script.sh
 echo JOSE
 echo JOSE
 echo JOSE
+echo name.txt
+echo name.txt
+__vsc_prompt_cmd_original
+[200~./script.sh < name.txt~
+./script.sh < name.txt

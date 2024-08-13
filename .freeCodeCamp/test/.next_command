@@ -50,3 +50,4 @@ echo freeCodeCamp > name.txt
 READ NAME
 read NAME
 read NAME < name.txt
+echo $NAME

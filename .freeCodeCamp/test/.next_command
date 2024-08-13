@@ -51,3 +51,4 @@ READ NAME
 read NAME
 read NAME < name.txt
 echo $NAME
+echo JOSE

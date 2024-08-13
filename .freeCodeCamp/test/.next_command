@@ -45,3 +45,4 @@ read Name
 read NAME
 echo NAME
 echo $NAME
+echo $NAME > stdout.txt

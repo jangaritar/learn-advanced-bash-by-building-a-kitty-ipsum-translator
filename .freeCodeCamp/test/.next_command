@@ -53,3 +53,4 @@ read NAME < name.txt
 echo $NAME
 echo JOSE
 echo $NAME
+cat

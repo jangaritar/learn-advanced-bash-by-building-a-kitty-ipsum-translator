@@ -47,3 +47,6 @@ echo NAME
 echo $NAME
 echo $NAME > stdout.txt
 echo freeCodeCamp > name.txt
+READ NAME
+read NAME
+read NAME < name.txt

@@ -71,3 +71,7 @@ echo name.txt
 __vsc_prompt_cmd_original
 [200~./script.sh < name.txt~
 ./script.sh < name.txt
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+./script.sh < name.txt
+./script.sh < name.txt 2> stderr.txt

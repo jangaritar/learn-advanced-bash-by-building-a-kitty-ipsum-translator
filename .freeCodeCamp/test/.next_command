@@ -94,3 +94,4 @@ echo [200~~~ kitty_ipsum_1.txt info ~~~
 echo ~~ kitty_ipsum_1.txt info ~~ > kitty_info.txt
 echo '~~ kitty_ipsum_1.txt info ~~' > kitty_info.txt
 echo -e "\nNumber of lines:" >> kitty_info.txt
+cat kitty_ipsum_1.txt

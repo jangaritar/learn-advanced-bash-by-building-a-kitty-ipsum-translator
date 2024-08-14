@@ -102,3 +102,5 @@ echo -e "\nNumber of characters:" >> kitty_info.txt
 wc -m < kitty_ipsum_1.txt >> kitty_info.txt
 greo 'meow' kitty_ipsum_1.txt
 grep 'meow' kitty_ipsum_1.txt
+grep m
+man grep

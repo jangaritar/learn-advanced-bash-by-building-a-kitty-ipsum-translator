@@ -188,3 +188,4 @@ grep -o 'cat[a-z]*' kitty_ipsum_1.txt
 echo -e "\nLines that they appear on:\n" >> kitty_in
 echo -e "\nLines that they appear on:\n" >> kitty_info.txt
 echo -e "\nLines that they appear on:" >> kitty_info.txt
+grep -n 'cat[a-z]*' kitty_ipsum_1.txt

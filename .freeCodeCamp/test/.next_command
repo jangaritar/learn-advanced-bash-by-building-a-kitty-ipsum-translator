@@ -138,3 +138,6 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 grep --color 'meow' kitty_ipsum_1.txt
 grep --color -n 'meow' kitty_ipsum_1.txt
 grep --color -n 'meow' kitty_ipsum_1.txt
+grep --color -n meow[a-z] kitty_ipsum_1.txt
+grep --color -n meow[a-z] kitty_ipsum_1.txt
+grep --color -n 'meow[a-z]*' kitty_ipsum_1.txt
